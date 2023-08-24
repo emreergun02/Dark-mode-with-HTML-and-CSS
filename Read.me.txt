@@ -1,0 +1,1 @@
+This project was created with HTML and CSS, when most of coder are creating a dark mode project, they use HTML, CSS and JavaScript but I want to show that you can create dark mode without using JavaScript so you can use this project in your web site.
